@@ -1,0 +1,2 @@
+from easyRequestsJson import getJson
+from easyRequestsJson import postJson

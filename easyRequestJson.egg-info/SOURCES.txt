@@ -1,0 +1,7 @@
+pyproject.toml
+setup.py
+easyRequestJson.egg-info/PKG-INFO
+easyRequestJson.egg-info/SOURCES.txt
+easyRequestJson.egg-info/dependency_links.txt
+easyRequestJson.egg-info/requires.txt
+easyRequestJson.egg-info/top_level.txt
