@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1' 
+VERSION = '0.0.2' 
 DESCRIPTION = 'Easy Post and Get requests'
 LONG_DESCRIPTION = 'An easy way to do Get and Post requests'
 
@@ -12,5 +12,5 @@ setup(
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
-        install_requires=["requests" ,"json"]
+        install_requires=["requests"]
 )

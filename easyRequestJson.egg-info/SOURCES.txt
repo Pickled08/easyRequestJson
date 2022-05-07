@@ -1,5 +1,7 @@
 pyproject.toml
 setup.py
+easyRequestJson/__init__.py
+easyRequestJson/easyRequestsJson.py
 easyRequestJson.egg-info/PKG-INFO
 easyRequestJson.egg-info/SOURCES.txt
 easyRequestJson.egg-info/dependency_links.txt
